@@ -1,0 +1,17 @@
+#root {
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(48, 58, 55);
+  font-family: 'Saira Stencil One', cursive;
+}
+
+#root>div {
+  text-align: center;
+}
+h1{
+  font-size: 90px;
+  color: white;
+}
